@@ -1,0 +1,20 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{B86BFB1E-49BF-507B-4253-0F96ECB88D96}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "BP_Mqtt",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "BPMqtt",
+			"Enabled": true,
+			"MarketplaceURL": ""
+		}
+	]
+}
